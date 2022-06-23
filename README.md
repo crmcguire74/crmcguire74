@@ -16,9 +16,9 @@ What really excites me is being able to use my blend of design and engineering s
 
 ## Find me around the Inter-Web :spider_web:	<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/1223579/174912836-4db6e975-1fbe-47c1-a7d4-0024958836a7.png">
  <!--<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>-->
-- Tinkering around with my personal space and eventual blog <a href="https:/www.paguire.com/">PaGuire</a> :bust_in_silhouette:
-- Updating my skills after pulling my hair out from yesterday's project on <a href="https://www.linkedin.com/in/ChristopherRMcGuire">LinkedIn</a> :briefcase:
-- Posting the random technical tweet, or political rant on <a href="https://www.twitter.com/crmcguire74/">Twitter</a> :bird:
+- Tinkering around with my personal space and eventual blog <a target="_blank" href="https:/www.paguire.com/">PaGuire</a> :bust_in_silhouette:
+- Updating my skills after pulling my hair out from yesterday's project on <a target="_blank"  href="https://www.linkedin.com/in/ChristopherRMcGuire">LinkedIn</a> :briefcase:
+- Posting the random technical tweet, or political rant on <a target="_blank" href="https://www.twitter.com/crmcguire74/">Twitter</a> :bird:
 
 <br/><br/>
 :incoming_envelope:	 Want to talk Frontend? Drop me a line on the Gmail: <a href="mailto:Christopher.R.McGuire@gmail.com"/>Christopher.R.McGuire@gmail.com</a>
