@@ -21,7 +21,7 @@ What really excites me is being able to use my blend of design and engineering s
 ## Find me around the Inter-Web :spider_web:
 
 
-<img align="left" width="225"  src="https://user-images.githubusercontent.com/1223579/175841527-b158b9d9-6349-4316-81d6-60d4157d8eea.gif">
+<img align="left" width="150"  src="https://user-images.githubusercontent.com/1223579/175841527-b158b9d9-6349-4316-81d6-60d4157d8eea.gif">
 
 <!--<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/1223579/174912836-4db6e975-1fbe-47c1-a7d4-0024958836a7.png">-->
  <!--<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>-->
