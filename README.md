@@ -8,8 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 # Hi, I'm Chris  
 
+![LinkedInBanner](https://github.com/crmcguire74/crmcguire74/assets/1223579/33af49b5-9092-4035-b981-113a80124257)
 
-![Passion for All Things Frontend (2)](https://user-images.githubusercontent.com/1223579/175381040-2a817ccc-86ca-484c-a5d0-0bcd9e67bb76.png)
+<!--
+![Passion for All Things Frontend (2)](https://user-images.githubusercontent.com/1223579/175381040-2a817ccc-86ca-484c-a5d0-0bcd9e67bb76.png) 
+-->
 <!--
 ![Passion for All Things Frontend](https://user-images.githubusercontent.com/1223579/175379591-36b9440f-d15b-4f8e-b163-e95c93a5ea67.png)
 -->
@@ -20,8 +23,11 @@ What really excites me is being able to use my blend of design and engineering s
 
 ## Find me around the Inter-Web :spider_web:
 
+![HeadshotGraphicalLogo 2](https://github.com/crmcguire74/crmcguire74/assets/1223579/9a24c5cc-46b9-4c10-9f3a-d738eeeec9ba)
 
+<!-- Animated Gif
 <img align="left" width="150"  src="https://user-images.githubusercontent.com/1223579/175841527-b158b9d9-6349-4316-81d6-60d4157d8eea.gif">
+-->
 
 <!--<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/1223579/174912836-4db6e975-1fbe-47c1-a7d4-0024958836a7.png">-->
  <!--<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>-->
