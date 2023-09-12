@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi, I'm Chris  
 
+
 ![LinkedInBanner](https://github.com/crmcguire74/crmcguire74/assets/1223579/33af49b5-9092-4035-b981-113a80124257)
 
 <!--
@@ -23,8 +24,10 @@ What really excites me is being able to use my blend of design and engineering s
 
 ## Find me around the Inter-Web :spider_web:
 
+<img align="left" width="150"  src="https://github.com/crmcguire74/crmcguire74/assets/1223579/9a24c5cc-46b9-4c10-9f3a-d738eeeec9ba">
+<!--
 ![HeadshotGraphicalLogo 2](https://github.com/crmcguire74/crmcguire74/assets/1223579/9a24c5cc-46b9-4c10-9f3a-d738eeeec9ba)
-
+-->
 <!-- Animated Gif
 <img align="left" width="150"  src="https://user-images.githubusercontent.com/1223579/175841527-b158b9d9-6349-4316-81d6-60d4157d8eea.gif">
 -->
@@ -41,5 +44,5 @@ What really excites me is being able to use my blend of design and engineering s
 <br/><br/>
 :incoming_envelope:	 Want to talk Frontend? Drop me a line on the Gmail: <a href="mailto:Christopher.R.McGuire@gmail.com"/>Christopher.R.McGuire@gmail.com</a>
 <br/><br/><br/><br/>
-© 2022 GitHub, Inc.
+© 2023 Christopher R McGuire
 
