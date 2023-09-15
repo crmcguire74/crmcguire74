@@ -24,7 +24,9 @@ What really excites me is being able to use my blend of design and engineering s
 
 ## Find me around the Inter-Web :spider_web:
 
-<img align="left" width="150"  src="https://github.com/crmcguire74/crmcguire74/assets/1223579/9a24c5cc-46b9-4c10-9f3a-d738eeeec9ba">
+<!--![crmlogo4](https://github.com/crmcguire74/crmcguire74/assets/1223579/659629d2-f30c-4a22-ae8f-725fd4245d50)
+-->
+<img align="left" width="150"  src="https://github.com/crmcguire74/crmcguire74/assets/1223579/659629d2-f30c-4a22-ae8f-725fd4245d50">
 <!--
 ![HeadshotGraphicalLogo 2](https://github.com/crmcguire74/crmcguire74/assets/1223579/9a24c5cc-46b9-4c10-9f3a-d738eeeec9ba)
 -->
