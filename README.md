@@ -47,67 +47,53 @@ Hi, I'm Christopher McGuire. I have built and lead teams with a UX/UI/Frontend d
 :incoming_envelope:	 Want to talk Frontend? Drop me a line on the Gmail: <a href="mailto:Christopher.R.McGuire@gmail.com"/>Christopher.R.McGuire@gmail.com</a>
 <br/><br/><br/><br/>
 
-
    ### Socials          
   <p align="left">
-                      <a href="https://www.dribbble.com/crmcguire74" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.github.com/crmcguire74" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="http://www.instagram.com/crmcguire74" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/Christopher-R-McGuire" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.x.com/crmcguire74" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.youtube.com/@crmcguire1974" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.threads.net/@crmcguire74" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
 
-             
-![csharp_original_logo_icon_146578](https://github.com/user-attachments/assets/baee401e-e756-4b3f-9246-d94fc5dbf457) {height:36px; width:36px;}
+<a href="https://www.twitter.com/crmcguire74/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/767d3ece-9681-48a4-ad9e-168f92202b55" height="36" width="36" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/Christopher-R-McGuire" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/49b94335-1f4f-406f-8f1b-230d3fe82535" height="36" width="36" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/crmcguire74" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e78b0cd7-4f20-4d59-b218-63cf225007b5" height="36" width="36" alt="Instagram"/></a>
+<a href="https://www.threads.net/crmcguire74/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8c9f7731-f28b-408d-8a25-33f9dad41a45" height="36" width="36" alt="Threads"/></a>
+<a href="https://www.github.com/crmcguire74/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1211f988-cc0f-49bc-a919-1809ecd58516" height="36" width="36" alt="GitHub"/></a>
+<a href="https://www.dribbble.com/crmcguire74/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0ec3f71f-ca00-4187-8c6f-e75f098f142a" height="36" width="36" alt="Dribbble"/></a>
+              
 
-  ### Skills 
+
+### Skills
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-                    </p>
-                    
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/baee401e-e756-4b3f-9246-d94fc5dbf457" height="36" width="36" alt="C#"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2f3de9f-43ac-40c1-8d6b-48eb04827841" height="36" width="36" alt="JavaScript /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/27e0fa7d-fb6c-422b-9ae0-0d449d7b41a8" height="36" width="36" alt="PHP"/></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cd38b1f3-2bbd-4761-be59-af8a2a57c069" height="36" width="36" alt="Microsoft .NET" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/fd5c86eb-b099-49d9-b0d8-3d00713e9b72" height="36" width="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3097c0a1-d9b4-4886-9542-efda1d5fff03" height="36" width="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6ecda2ed-959d-4545-9d1b-607ba92f53a7" height="36" width="36" alt="NodeJS"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7bbef0e0-b8f6-4f68-b20d-2f61a33c92e4" height="36" width="36" alt="ReactJS"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ebbf5a13-dd01-486e-9904-89b4cca166b2" height="36" width="36" alt="Tailwind" /></a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8f7cd4ee-0fd6-45ad-89db-7750706e91e3" height="36" width="36" alt="MongoDSB" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/5ba1de31-c808-472b-954c-1a09dca46eb1" height="36" width="36" alt="Webpack" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8c3e360a-1ccc-4f1e-a064-dbadc34f373c" height="36" width="36" alt="Material UI" /></a>
+
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d4652a8c-f6c7-4c43-a7ea-4296f15145ca" height="36" width="36" alt="Figma" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/69fd2afd-8fe4-4c19-ab2c-9849bf86c719" height="36" width="36" alt="Blender" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e995eb9b-771f-46f4-bf05-3a3b1827ad36" height="36" width="36" alt="PhotoShop" /></a>
+<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/53ec3d02-874f-49fc-8cb8-ce1a6a7a3a84" height="36" width="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a20b0262-0911-414a-b4d4-dec2f565bf5e" height="36" width="36" alt="After Effects" /></a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6bf6dc98-c729-436b-8be0-3e833d83ab9c" height="36" width="36" alt="Docker"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/caff7d45-a57d-4198-96ea-a6d57ae683b1" height="36" width="36" alt="Git"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7ba6969d-9eaf-4ec6-8772-d40f1d534397" height="36" width="36" alt="Visual Studio Code" /></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/151af692-0c50-4a8e-8cda-7cf07e96536f" height="36" width="36" alt="Vim" /></a>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/de22ab84-aef2-477d-b59f-a6c6c9cfdcea" height="36" width="36" alt="Firebase"/></a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/af84cbcd-cce7-487c-8469-b7285bf91b3f" height="36" width="36" alt="MySQL" /></a>
+<a href="https://microsoft365.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4d830d0a-c784-49d0-ad1c-c3ae8b4c753e" height="36" width="36" alt="Microsoft 365"/></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a97dc146-139c-452d-be29-6a3be2af76ed" height="36" width="36" alt="Linux" /></a>
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2065eec9-fd64-4fc5-be95-59d314353f3f" height="36" width="36" alt="Mac OS"/></a>
+<a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c00ffb2c-f41c-4653-a782-f4f1e15d25b5" height="36" width="36" /></a>
+
+</p>                     
+
                     
                     
 ### Support Me<br />
