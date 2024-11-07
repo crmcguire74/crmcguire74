@@ -99,7 +99,9 @@ Hi, I'm Christopher McGuire. I have built and lead teams with a UX/UI/Frontend d
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-                    
+
+             
+![csharp_original_logo_icon_146578](https://github.com/user-attachments/assets/baee401e-e756-4b3f-9246-d94fc5dbf457) {height:36px; width:36px;}
 
   ### Skills 
 <p align="left">
