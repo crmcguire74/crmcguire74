@@ -37,11 +37,11 @@ Hi, I'm Christopher McGuire. I have built and lead teams with a UX/UI/Frontend d
 <img align="left" width="150" src="https://github.com/user-attachments/assets/645050ab-d38b-471a-89c0-4347d365ca42">
 
 <br/>
-* Tinkering around with my personal space and eventual blog <a href="https://www.paguire.com">PaGuire</a> :bust_in_silhouette:
+* Tinkering around with my personal space and eventual blog at [Paguire.com](https://paguire.com) :bust_in_silhouette:
 <br/>
-* Updating my skills after pulling my hair out from yesterday's project on <a href="https://www.linkedin.com/in/ChristopherRMcGuire">LinkedIn</a> :briefcase:
+* Updating my skills after pulling my hair out from yesterday's project on [LinkedIn](https://www.linkedin.com/in/Christopher-R-McGuire) :briefcase:
 <br/>
-* Posting the random technical tweet, or political rant on <a href="https://www.twitter.com/crmcguire74/">Twitter</a> :bird:
+* Posting the random technical tweet, or political rant on [Twitter](https://twitter.com/crmcguire74) :bird:
 
 <br/><br/>
 :incoming_envelope:	 Want to talk Frontend? Drop me a line on the Gmail: <a href="mailto:Christopher.R.McGuire@gmail.com"/>Christopher.R.McGuire@gmail.com</a>
