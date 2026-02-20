@@ -100,5 +100,5 @@ Hi, I'm Christopher McGuire. I have built and lead teams with a UX/UI/Frontend d
 <a href="https://www.buymeacoffee.com/crmcguire74"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 
-© 2024 Christopher R McGuire
+© 2026 Christopher R McGuire
 
