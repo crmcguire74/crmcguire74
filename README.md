@@ -28,7 +28,7 @@ Hi, I'm Christopher McGuire. I have built and lead teams with a UX/UI/Frontend d
 *   🌍  I'm based in Chicago, IL
 *   🖥️  See my portfolio at [My Personal Site](http://www.paguire.com)
 *   ✉️  You can contact me at [Christopher.R.McGuire@gmail.com](mailto:Christopher.R.McGuire@gmail.com)
-*   🚀  I'm currently working on [Modus AI]([http://iconforge.net](https://paguire.com/products/modus-ai/modus-ai)) and [Thrive Financial](https://thrivefinancial.app)
+*   🚀  I'm currently working on [Modus AI](https://paguire.com/products/modus-ai/modus-ai) and [Thrive Financial](https://thrivefinancial.app)
 *   🧠  I'm learning various ways to use LLM, from vibecoding and code-pairing to onboarding and deep research activities
 *   🤝  I'm open to collaborating on Interesting Projects
   
